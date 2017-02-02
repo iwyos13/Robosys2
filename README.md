@@ -16,12 +16,23 @@ $:chmod a+x mypkg count.py (count.py に管理者権限を付与)<br>
 $:rosrun mypkg count.py<br>
 実行の確認<br>
 rostopic echo /count_up <br>
-作成したプログラム
+
+
+
+
+
+作成したプログラム<br>
+詳細はpackage.xmlに記載<br>
+
+
 kadaip.py , kadais.py,<br>
 どちらともcount.py, twice.pyの改良<br>
+
+
 kadaip.py<br>
 
 rate = を20Hzにすることにより、一秒につき20回動作<br>
 n += 5 に変更<br>
 
-kadais.py<br>受け取ったcount_upの値+1 を行い,この値×3 を表示する<br>
+kadais.py<br>
+受け取ったcount_upの値+1 を行い,この値×3 を表示する<br>
