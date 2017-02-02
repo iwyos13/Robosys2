@@ -1,5 +1,5 @@
 # Robosys2<br>
-授業内容<br>
+# 授業内容<br>
 ROSの起動からパブリッシャ(送信)とサブスクライバ(受信)の製作, 実行まで<br>
 
 (Tera Term でROSを行う場合, ROS実行画面, プログラム実行画面, CUI画面の ３個を起動する必要がある)<br>
@@ -21,7 +21,7 @@ rostopic echo /count_up <br>
 
 
 
-作成したプログラム<br>
+# 作成したプログラム<br>
 詳細はpackage.xmlに記載<br>
 
 
@@ -36,6 +36,6 @@ n += 5 に変更<br>
 
 kadais.py<br>
 受け取ったcount_upの値+1 を行い,この値×3 を表示する<br>
-
+# 動画
 kadaipのURL  https://youtu.be/8ewoMt5y_bQ　<br>
 kadaisのURL  https://youtu.be/uemfL0o0cBI
