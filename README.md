@@ -37,5 +37,5 @@ n += 5 に変更<br>
 kadais.py<br>
 受け取ったcount_upの値+1 を行い,この値×3 を表示する<br>
 # 動画
-kadaipのURL  https://youtu.be/8ewoMt5y_bQ　<br>
-kadaisのURL  https://youtu.be/uemfL0o0cBI
+kadaipのURL  https://youtu.be/8tVptzb1Vig　<br>
+kadaisのURL  https://youtu.be/8y1Sj5NH4Rw
