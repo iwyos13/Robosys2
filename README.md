@@ -36,3 +36,6 @@ n += 5 に変更<br>
 
 kadais.py<br>
 受け取ったcount_upの値+1 を行い,この値×3 を表示する<br>
+
+kadaipのURL  https://youtu.be/8ewoMt5y_bQ
+kadaisのURL  https://youtu.be/uemfL0o0cBI
